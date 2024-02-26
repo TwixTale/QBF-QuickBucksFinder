@@ -28,4 +28,4 @@ Users can contribute to the community by updating the cash status of ATMs. When 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/QBF.git
+   git clone https://github.com/TwixTale/QBF-QuickBucksFinder
