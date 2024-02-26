@@ -1,6 +1,6 @@
 # QBF - QuickBucksFinder
 
-![QBF Logo](path/to/your/logo.png)
+![QBF Logo](https://drive.google.com/uc?id=10biIvzok68RLBwVBdMTBy7lWLYdtZA8V)
 
 ### QBF (QuickBucksFinder)
 
