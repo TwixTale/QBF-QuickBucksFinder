@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "247959323780",
+    "project_id": "quickbucks-finder",
+    "storage_bucket": "quickbucks-finder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247959323780:android:0957e995c64d2511c2eed1",
+        "android_client_info": {
+          "package_name": "com.example.qbf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb5ysCW0EkNH94QKtgXeCw7wmjDDSLNbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
