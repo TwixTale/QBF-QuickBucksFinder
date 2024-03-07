@@ -1,4 +1,4 @@
-![QBF Logo](app/src/main/res/drawable/fram1.png)
+![QBF Logo](app/src/main/res/drawable/frame1.png)
 
 ### QBF (QuickBucksFinder)
 
